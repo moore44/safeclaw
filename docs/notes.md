@@ -1,3 +1,4 @@
 # notes.md
 
 Notes and usage details for safeclaw.
+- fix a small wording issue
